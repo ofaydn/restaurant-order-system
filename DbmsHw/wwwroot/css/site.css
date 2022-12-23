@@ -1,0 +1,29 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.navbar a {
+    color: black;
+}
+.navbar li a{
+    color: black;
+}
+img:hover{
+  transition: 0.4s;
+  transform: scale(1.2);
+}
