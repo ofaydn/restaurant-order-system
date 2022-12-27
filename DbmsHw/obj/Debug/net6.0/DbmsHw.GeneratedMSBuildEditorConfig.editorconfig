@@ -27,14 +27,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCZXZlcmFnZVByaWNlQ2hhbmdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Home/Cashier.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXNoaWVyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Home/Courier.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3VyaWVyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Home/DeletedOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVkT3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -71,16 +63,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVGb29kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Home/Waiter.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXYWl0ZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Staff/Cashier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcQ2FzaGllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Staff/Courier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcQ291cmllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/Staff/Waiter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcV2FpdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ofadu/Desktop/Dbms/DbmsHw/Views/_ViewImports.cshtml]
